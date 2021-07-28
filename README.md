@@ -1,4 +1,4 @@
-# secret-diary
+# journal-intime
 
 project management is done in kanban method
 
